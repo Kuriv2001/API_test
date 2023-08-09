@@ -1,0 +1,6 @@
+---
+# tasks file for test
+- name: do something
+  command: mkdir hello
+ 
+
